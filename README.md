@@ -14,5 +14,7 @@ In Speech Recognition mode, powered by artificial intelligence, students respond
 
 ![image alt]([image link](https://github.com/EndrapuKranthiRaj/Flutter-based-Attendance-application-with-dedicated-Hardware-integrated-with-Firebase-/blob/5501fe20d627e564be34f066fa2c310b78a94cc8/IOT_dedicated_device.jpg))
 
+Hardware Image 👆👆
+
 This combination of software and hardware solutions offers a seamless and efficient approach to attendance management.  
 
