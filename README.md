@@ -7,3 +7,4 @@ This project is designed to streamline the attendance-taking process by developi
 Users begin by uploading an Excel sheet for the relevant class. They can then select between Speech Recognition or Manual Attendance to record attendance.
 In Speech Recognition mode, powered by artificial intelligence, students respond vocally to confirm their presence. In Manual Attendance mode, the interface provides plus, minus, and reset buttons for marking students as present, absent, or resetting the attendance. After recording the attendance, users can navigate to a download page to retrieve the finalized attendance sheet.
 This combination of software and hardware solutions offers a seamless and efficient approach to attendance management.
+
